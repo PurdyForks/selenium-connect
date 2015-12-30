@@ -2,9 +2,9 @@ Gem::Specification.new do |s|
   s.name          = 'selenium-connect'
   s.version       = '3.7.1'
   s.platform      = Gem::Platform::RUBY
-  s.authors       = ['Dave Haeffner', 'Jason Fox']
-  s.email         = ['dave@arrgyle.com', 'jason@arrgyle.com']
-  s.homepage      = 'https://github.com/arrgyle/selenium-connect'
+  s.authors       = ['Dave Haeffner', 'Jason Fox', 'Joe Purdy']
+  s.email         = ['dave@arrgyle.com', 'jason@arrgyle.com', 'joe@poweredbypurdy.com']
+  s.homepage      = 'https://github.com/joepurdy/selenium-connect'
   s.summary       = 'A stupid simple way to run your Selenium tests on localhost, against a Selenium Grid, or in the cloud (e.g. SauceLabs).'
   s.description   = 'Updated Selenium gems and binaries so they are current'
   s.license       = 'MIT'
